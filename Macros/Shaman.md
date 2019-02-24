@@ -52,7 +52,7 @@ Any non-harmful mouseover macros here will attempt to target a friendly target, 
 /cast [target=mouseover, exists, help] Purify Spirit; Purify Spirit
 ```
 
-## ![Chain Heal](https://wow.zamimg.com/images/wow/icons/large/spell_nature_healingwavegreater.jpg) Unleash Life
+## ![Unleash Life](https://wow.zamimg.com/images/wow/icons/large/spell_shaman_unleashweapon_life.jpg) Unleash Life
 
 ```
 #showtooltip
@@ -63,14 +63,14 @@ Any non-harmful mouseover macros here will attempt to target a friendly target, 
 
 These macros remove the requirement to circle the spell and then click area to decide where to put the area of effect.
 
-## ![Chain Heal](https://wow.zamimg.com/images/wow/icons/large/spell_nature_healingwavegreater.jpg)  Healing Rain
+## ![Healing Rain](https://wow.zamimg.com/images/wow/icons/large/spell_nature_giftofthewaterspirit.jpg)  Healing Rain
 
 ```
 #showtooltip
 /cast [@cursor] Healing Rain
 ```
 
-## ![Healing Rain](https://wow.zamimg.com/images/wow/icons/large/spell_nature_giftofthewaterspirit.jpg)  Spirit Link Totem
+## ![Spirit Link Totem](https://wow.zamimg.com/images/wow/icons/large/spell_shaman_spiritlink.jpg)  Spirit Link Totem
 
 ```
 /showtooltip
